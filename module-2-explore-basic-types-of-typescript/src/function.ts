@@ -45,7 +45,7 @@ console.log(arr1.length);
  * 
  * 
  *  terminal file run : npx ts-node-dev src/function.ts
- *  as like nodemon : npx ts-node-dev --respawn src/file-name.ts 
+ *  as like nodemon : npx ts-node-dev --respawn src/file-name.ts  
  * 
  * ***/ 
 
